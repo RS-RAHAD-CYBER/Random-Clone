@@ -1,0 +1,2 @@
+# Random-Clone
+Paid command 
